@@ -1,4 +1,4 @@
-# DevOps Course
+# Automated Software Testing and DevOps
 
 ## Task 1 - Demo
 ### Comparing two CI/CD tools: Github Actions vs Jenkins
