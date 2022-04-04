@@ -5,7 +5,7 @@ Title: **Comparing two CI/CD tools: Github Actions vs Jenkins**
 <br>
 ![](https://github.com/xrisaD/CI-CDPipeline/blob/main/imgs/jenkins-vs-github-actions.png)
 <br>
-Description: For this Demo, we created a simple Node.js application with a simple test. Two CI/CD pipelines have been created. One with Jenkins and one with Github Actions and one with Jenkins. Both of them are deploying on Heroku. The purpose was to compare the two tools.
+Description: For this Demo, we created a simple Node.js application with a simple test. The goal was to compare the two tools, so two CI/CD pipelines have been created. One with Jenkins and one with Github Actions. Both of them are deploying on Heroku. 
 ## Task 2 - Executable Tutorial
 Title: **Kubernetes**
 <br>
