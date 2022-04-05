@@ -1,7 +1,7 @@
 # Automated Software Testing and DevOps
 
 ## Task 1 - Demo
-### Comparing two CI/CD tools: Github Actions vs Jenkins
+### [Comparing two CI/CD tools: Github Actions vs Jenkins](https://github.com/xrisaD/CI-CDPipeline)
 
 ![](https://github.com/xrisaD/CI-CDPipeline/blob/main/imgs/jenkins-vs-github-actions.png)
 <br>
