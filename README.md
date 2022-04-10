@@ -7,9 +7,10 @@
 <br>
 For this Demo, we created a simple Node.js application with a simple test. The goal was to compare the two tools, so two CI/CD pipelines have been created. One with Jenkins and one with Github Actions. Both of them are deploying on Heroku. 
 ## Task 2 - Executable Tutorial
-Title: **Kubernetes**
+### Deploy Serverless functions on Kubernetes using OpenFaas
 <br>
-Description:
+
+[OpenFaas](https://github.com/openfaas/faas) is a framework for building serverless functions with Docker and Kubernetes.
 
 ## Task 3 - Essay
 Title: **Testing Microservices.**
