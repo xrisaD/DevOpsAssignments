@@ -13,14 +13,14 @@ Collaboration with Nikos Smyrnioudis
 
 [OpenFaas](https://github.com/openfaas/faas) is an open-source framework for deploying event-driven functions and microservices to Kubernetes. You can deploy Serverless functions (server-side functions that run on third-party vendors) on any cloud without being locked to a single cloud-service provider e.g. AWS, Google cloud, Azure. In this executable tutorial, we are going to set up OpenFaas, create and deploy our first Serverless function and show auto-scalling.
 
-Collaboration with Abyel Terfay
+Collaboration with Abyel Tesfay
 ## Task 3 - Presentation
 ### Mergify: Faster & safer code merge
 ![](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/228695/mergify-logo-title-horizontal-w200.png)
 
 Merging can be a time consuming task in big projects with many branches. Handing each Pull Request means assinging reviewers, adding comments, approving and merging. On certain cases the branch must be rebased to the latest verision of the main branch. Mergify is a Pull Request automation tool that solves these issues, through actions that are triggered based on a set of rules. In this presentation, we describe how Mergify is configured, how to specify actions with rules and how Mergify can queue and prioritize merges.
 
-Collaboration with Abyel Terfay
+Collaboration with Abyel Tesfay
 ## Task 4 - Essay
 **Testing Microservices: Types, Challenges and Solutions**
 
