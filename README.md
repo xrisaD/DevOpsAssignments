@@ -22,7 +22,11 @@ Merging can be a time consuming task in big projects with many branches. Handing
 
 Collaboration with Abyel Terfay
 ## Task 4 - Essay
-Title: **Testing Microservices.**
+**Testing Microservices: Types, Challenges and Solutions**
+
+Testing Microservices Architecture is a trending and challening DevOps topic. In this essay we want to target the different types of testing that can be done within the microservices architecture, the challenges 
+of implementing those tests and also present some tools and frameworks that are the industry standard followed to
+solve those challenges when we test Javascript microservices.
 
 Collaboration with Abdullah
 
