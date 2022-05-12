@@ -16,7 +16,8 @@ Collaboration with Nikos Smyrnioudis
 Collaboration with Abyel Tesfay
 ## Task 3 - Presentation
 ### Mergify: Faster & safer code merge
-![](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/228695/mergify-logo-title-horizontal-w200.png)
+
+<img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/228695/mergify-logo-title-horizontal-w200.png" alt="grafana" width="600"/>
 
 Merging can be a time consuming task in big projects with many branches. Handing each Pull Request means assinging reviewers, adding comments, approving and merging. On certain cases the branch must be rebased to the latest verision of the main branch. Mergify is a Pull Request automation tool that solves these issues, through actions that are triggered based on a set of rules. In this presentation, we describe how Mergify is configured, how to specify actions with rules and how Mergify can queue and prioritize merges.
 
@@ -31,6 +32,8 @@ Collaboration with Abdullah Abdullah
 
 ## Task 5 - Open-source Contribution
 ### Contribution to [Grafana](https://grafana.com/grafana/)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="grafana" width="400"/>
+
 Focusing on the front end I contributed to the following topics:
 #### Migration from Enzyme to React Testing Library
 There are many reasons to migrate from React Testing Library to Enzyme. The first one is that Enzyme does not officially support the React versions >17. The second one is that Enzyme makes it easy to write Component layer tests so the tests are highly tight with the component implementation. On the other hand the React testing library focuses on the DOM and makes it hard to write tests for the implementation details. This way, we can be more confident that our domain logic we want our app to have is actually implemented and the user can use the app as expected.
