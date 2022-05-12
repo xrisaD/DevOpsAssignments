@@ -11,6 +11,8 @@ Collaboration with Nikos Smyrnioudis
 ## Task 2 - Executable Tutorial
 ### [Deploy Serverless functions on Kubernetes using OpenFaas](https://www.katacoda.com/chrysa/scenarios/openfaas-tutorial)
 
+<img src="https://camo.githubusercontent.com/5f22e9a781e50057d3f11ef64a2914b741d2419324d67f62f7a03e82789b004f/68747470733a2f2f626c6f672e616c6578656c6c69732e696f2f636f6e74656e742f696d616765732f323031372f30382f666161735f736964652e706e67" alt="grafana" width="600"/>
+
 [OpenFaas](https://github.com/openfaas/faas) is an open-source framework for deploying event-driven functions and microservices to Kubernetes. You can deploy Serverless functions (server-side functions that run on third-party vendors) on any cloud without being locked to a single cloud-service provider e.g. AWS, Google cloud, Azure. In this executable tutorial, we are going to set up OpenFaas, create and deploy our first Serverless function and show auto-scalling.
 
 Collaboration with Abyel Tesfay
