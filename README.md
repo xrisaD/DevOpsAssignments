@@ -40,7 +40,7 @@ There are many reasons to migrate from React Testing Library to Enzyme. The firs
 
 * Main Issue:
 * Pull Requests:
-#### Improve Keyboard Accessibility (A11y)
+#### Keyboard Accessibility (A11y) Improvement
 [A11y](https://developer.mozilla.org/en-US/docs/Web/Accessibility) (Accessibility - "A" then 11 letters then "y") in web development means making websites that can be used by as many people as possible, including people with disabilities. Grafana can be improved to support A11y and make it easier for people to navigate through the app without using a mouse but using the keyboard or voice over. 
 
 For this reason, extra buttons have to be added to reduce the number of times the user presses the arrow keys.
