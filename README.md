@@ -30,7 +30,7 @@ of implementing those tests and also present some tools and frameworks that are 
 Collaboration with Abdullah Abdullah
 
 ## Task 5 - Open-source Contribution
-### Contribution to [Grafana](https://grafana.com/)
+### Contribution to [Grafana](https://grafana.com/grafana/)
 Focusing on the front end I contributed to the following topics:
 #### Migration from Enzyme to React Testing Library
 There are many reasons to migrate from React Testing Library to Enzyme. The first one is that Enzyme does not officially support the React versions >17. The second one is that Enzyme makes it easy to write Component layer tests so the tests are highly tight with the component implementation. On the other hand the React testing library focuses on the DOM and makes it hard to write tests for the implementation details. This way, we can be more confident that our domain logic we want our app to have is actually implemented and the user can use the app as expected.
