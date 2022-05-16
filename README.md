@@ -40,7 +40,7 @@ Focusing on the front end I contributed to the following topics:
 #### 1. Migration from Enzyme to React Testing Library
 There are many reasons to migrate from  Enzyme to React Testing Library. The first one is that Enzyme does not officially support the React versions >=17. The second one is that Enzyme makes it easy to write Component layer tests so the tests are highly tight with the component implementation. On the other hand, the React testing library focuses on the DOM and makes it hard to write tests for the implementation details. This way, we can be more confident that our domain logic we want our app to have is actually implemented and the user can use the app as expected.
 
-* Main Issue:
+* Main Issue: [#48253](https://github.com/grafana/grafana/issues/48253)
 * Pull Requests:
 #### 2. Keyboard Accessibility (A11y) Improvement
 [A11y](https://developer.mozilla.org/en-US/docs/Web/Accessibility) (Accessibility - "A" then 11 letters then "y") in web development means making websites that can be used by as many people as possible, including people with disabilities. Grafana can be improved to support A11y and make it easier for people to navigate through the app without using a mouse but using the keyboard or voice over. 
